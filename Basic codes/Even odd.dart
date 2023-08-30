@@ -2,9 +2,9 @@ void main() {
   int firstValue = 90;
   bool even = firstValue.isEven;
   if(even){
-    print( "Even");
+    print("${firstValue}Even");
   }else{
-    print('ODD');
+    print("${firstValue}ODD");
   }
   
 }
