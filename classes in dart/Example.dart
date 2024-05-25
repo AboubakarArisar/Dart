@@ -1,7 +1,7 @@
 void main(){
  
 print(Shape().shap);
-  print(Shape().size);
+  print(Shape().size); 
 }
 class Shape {
   String shap = 'Circle';
